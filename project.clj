@@ -2,6 +2,7 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [dk.ative/docjure "1.12.0"]
                  [org.apache.poi/poi "3.17"]
+                 [org.apache.poi/poi-ooxml "3.17"]
                  [ring "1.6.3"]
                  [commons-io/commons-io "2.5"]]
 
